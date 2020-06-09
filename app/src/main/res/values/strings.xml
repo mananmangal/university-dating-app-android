@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Amour</string>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Lesbian</item>
+        <item>Gay</item>
+        <item>Bisexual</item>
+        <item>Transgender</item>
+        <item>Queer</item>
+    </string-array>
+    <string-array name="edu_level">
+        <item>Undergrad</item>
+        <item>Graduate</item>
+        <item>PHD</item>
+    </string-array>
+
+    <string name="Profile">profile</string>
+    <string name="amour">amour</string>
+    <string name="Amor">Amor</string>
+    <string name="Chat">Chat</string>
+    <string name="Amour">Amour</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,1 +1,2 @@
-# university-dating-app-android
+# Amour
+University Dating Application

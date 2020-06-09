@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "297019462801",
+    "firebase_url": "https://amour-c0797.firebaseio.com",
+    "project_id": "amour-c0797",
+    "storage_bucket": "amour-c0797.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297019462801:android:03cc895c185ce5e161db30",
+        "android_client_info": {
+          "package_name": "com.example.amour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297019462801-setprjjugbtovqe9invt3gf2ipu29jc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgPe5JgN5JPlf4SyxPWO9uPkamlW8w4vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297019462801-setprjjugbtovqe9invt3gf2ipu29jc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
